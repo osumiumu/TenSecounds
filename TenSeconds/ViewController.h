@@ -10,6 +10,23 @@
 
 @interface ViewController : UIViewController
 
+{
+    IBOutlet UILabel *countLabel;
+    
+    float count;
+    
+    NSTimer *timer;
+    
+    IBOutlet UILabel  *label;
+    
+}
+
+-(IBAction)start ;
+-(IBAction)stop ;
+-(IBAction)clear;
+
+-(void)up ;
+-(void)hantei;
 
 @end
 

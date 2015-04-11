@@ -412,6 +412,7 @@
 				552386631A6A5154000122A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		552386641A6A5154000122A9 /* Build configuration list for PBXNativeTarget "TenSecondsTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				552386661A6A5154000122A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
